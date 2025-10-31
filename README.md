@@ -349,3 +349,4 @@ Email: ai-hub-support@qti.qualcomm.com.
 ## LICENSE
 
 Qualcomm® AI Hub Models is licensed under BSD-3. See the [LICENSE file](LICENSE).
+
